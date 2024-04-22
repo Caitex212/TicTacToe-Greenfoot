@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=player
+comment3.target=boolean\ checkWin(int)
+comment4.params=x\ y
+comment4.target=boolean\ valid(int,\ int)
+comment5.params=text
+comment5.target=void\ genText(java.lang.String)
+numComments=6
